@@ -57,7 +57,7 @@ for train_index,test_index in kf.split(X):
 	scores.append(score)
 
 	# Extract the probabiliites of predicting the 2nd class, which will use to generate the PR curve
-	probs =estimator.predict_proba(X_test)[:,1]
+	probs = estimator.predict_proba(X_test)[:,1]
 	preds.extend(probs)
 	actual_labels.extend(y_test)
 	
