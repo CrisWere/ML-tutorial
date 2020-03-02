@@ -27,7 +27,10 @@ practical1.py
 
 ## Files for practical 2
 
+Practical2-instructions.docx
+
 cnn_viz.py
+
 mnist_cnn.py
 
 
