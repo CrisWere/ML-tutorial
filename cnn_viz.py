@@ -70,6 +70,8 @@ model.compile(loss=keras.losses.categorical_crossentropy,
               optimizer=keras.optimizers.Adadelta(),
               metrics=['accuracy'])
 
+model.summary()
+
 model.load_weights('cnn-mnist.h5')
 
 layer_outputs = [layer.output for layer in model.layers[:3]]

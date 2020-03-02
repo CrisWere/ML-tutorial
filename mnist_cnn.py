@@ -3,6 +3,8 @@
 Gets to 99.25% test accuracy after 12 epochs
 (there is still a lot of margin for parameter tuning).
 16 seconds per epoch on a GRID K520 GPU.
+
+This code is adapted from https://github.com/keras-team/keras/blob/master/examples/mnist_cnn.py 
 '''
 
 from __future__ import print_function
@@ -66,6 +68,8 @@ model.add(Dense(num_classes, activation='softmax'))
 model.compile(loss=keras.losses.categorical_crossentropy,
               optimizer=keras.optimizers.Adadelta(),
               metrics=['accuracy'])
+
+model.summary()
 
 model.fit(x_train, y_train,
           batch_size=batch_size,
