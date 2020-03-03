@@ -1,12 +1,10 @@
 # ML-tutorial
 Code for the Machine Learning tutorial at the Tucuman National Universitu in March 2020
 
-## Examples of lecture 2
-
+## folder lecture1 - Examples used in lecture 1
 cross-validation-grid-search.py
 
-## Examples of lecture 3
-
+## folder lecture2 - Examples used in lecture 2
 dt.py
 
 knn.py
@@ -17,21 +15,32 @@ rf.py
 
 svm.py
 
-## Files for practical 1
-
+## practical1 - instructions, code and data for practical 1
 Practical1-instructions.docx
 
 checkerboard.csv
 
 practical1.py
 
-## Files for practical 2
-
+## practical2 - instructions, code and data for practical 2
 Practical2-instructions.docx
 
 cnn_viz.py
 
 mnist_cnn.py
 
+## practical3 - instructions, code and data for practical 3
+Practical3-instructions.docx
 
-## Files for practical 3
+TestFold00w4.arff
+
+TrainFold00w4.arff
+
+checkerboard.csv
+
+practical3-relief.py
+
+practical3-rfe.py
+
+practical3-ros.py
+
