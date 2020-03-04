@@ -44,3 +44,5 @@ practical3-rfe.py
 
 practical3-ros.py
 
+## slides - all the slides of the introduction to machine learning course
+
