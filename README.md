@@ -1,10 +1,10 @@
 # ML-tutorial
 Code for the Machine Learning tutorial at the Tucuman National Universitu in March 2020
 
-## folder lecture1 - Examples used in lecture 1
+## folder lecture2 - Examples used in lecture 2
 cross-validation-grid-search.py
 
-## folder lecture2 - Examples used in lecture 2
+## folder lecture3 - Examples used in lecture 3
 dt.py
 
 knn.py
