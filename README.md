@@ -46,3 +46,20 @@ practical3-ros.py
 
 ## slides - all the slides of the introduction to machine learning course
 
+ML-1.pptx
+
+ML-2.pptx
+
+ML-3.pptx
+
+ML-4.pptx
+
+ML-5.pptx
+
+ML-6.pptx
+
+ML-7.pptx
+
+ML-8.pptx
+
+ML-9.pptx
